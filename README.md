@@ -22,8 +22,8 @@ Making research software reusable is crucial to ensure the reproducibility of re
 
 ## Meeting material
 
-- [ISMBECCB2023_1638_Patel_poster.pdf](ISMBECCB2023_1638_Patel_poster.pdf): pdf of our poster
-- [ISMBECCB2023_1638_Patel_talk.pdf](ISMBECCB2023_1638_Patel_talk.pdf): slides of our talk
+- [ISMBECCB2023_1638_Patel_poster.pdf](ISMBECCB2023_1638_Patel_poster.pdf): pdf of our poster. Also available on F1000Research https://doi.org/10.7490/f1000research.1119608.1
+- [ISMBECCB2023_1638_Patel_talk.pdf](ISMBECCB2023_1638_Patel_talk.pdf): slides of our talk. Also available on F1000Research https://doi.org/10.7490/f1000research.1119609.1
 
 ## Resources
 
